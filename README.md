@@ -3,7 +3,7 @@
 I am Frontend developer & Designer & Teacher at Uzhhorod National University
 
 ###💻 Technologies
-HTML 5  CSS 3  JS  SASS Git  React  Redux  Zustand  Next-js  Tailwind CSS  Framer-motion  TS  Bootstrap
+HTML 5  CSS 3  JS  SASS Git  React  Next-js  Tailwind CSS  Framer-motion  TS  Bootstrap  Photoshop  Illustrator  Figma
 
 
 <!--
