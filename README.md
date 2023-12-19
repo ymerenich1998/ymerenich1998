@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Frontend developer & Designer & Teacher at Uzhhorod National University
+
+###💻 Technologies
+HTML 5  CSS 3  JS  SASS Git  React  Redux  Zustand  Next-js  Tailwind CSS  Framer-motion  TS  Bootstrap
+
+
 <!--
 **ymerenich1998/ymerenich1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
